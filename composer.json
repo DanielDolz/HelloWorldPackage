@@ -1,5 +1,5 @@
 {
-    "name": "Danieldolz/hello-world-package",
+    "name": "danieldolz/hello-world-package",
     "description": "Dummy hello world package",
     "type": "library",
     "license": "MIT",

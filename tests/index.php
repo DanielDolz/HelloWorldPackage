@@ -1,6 +1,6 @@
 <?php
 
-require '../vendor/autoload'
+require __DIR__ . '../vendor/autoload';
 
 use Danieldolz\Hello;
 
