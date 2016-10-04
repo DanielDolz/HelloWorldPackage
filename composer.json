@@ -1,0 +1,16 @@
+{
+    "name": "Danieldolz/hello-world-package",
+    "description": "Dummy hello world package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "danieldolz",
+            "email": "danieldolz@iesebre.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"Danieldolz\\": "src/"}
+    }
+}
